@@ -1,16 +1,22 @@
 ## Hi there 👋
 
-<!--
-**GumGum-Dev/GumGum-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey there, I'm GumGum 👋
 
-Here are some ideas to get you started:
+Im a junior developer who loves making Python projects and 
+open-source tools that make other devs lives a little easier.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Still learning, always building, and happy to collaborate — feel 
+free to explore my repos, open an issue.
+
+---
+
+### 🐍 What I work with
+- Python
+
+### 📦 What I build
+- Libraries & tools other devs can drop into their projects
+
+### 🤝 Open to
+- Collaborations, feedback, and cool ideas!
+
+### 📡 Working on
