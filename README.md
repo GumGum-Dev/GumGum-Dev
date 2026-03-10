@@ -1,6 +1,4 @@
-## Hi there 👋
-
-# Hey there, I'm GumGum 👋
+# Hi there im GumGum👋
 
 Im a junior developer who loves making Python projects and 
 open-source tools that make other devs lives a little easier.
