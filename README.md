@@ -1,6 +1,6 @@
 # Hi there im GumGum👋
 
-Im a junior developer who loves making Python projects and 
+Im a junior developer and I loves making systems and 
 open-source tools that make other devs lives a little easier.
 
 Still learning, always building, and happy to collaborate — feel 
@@ -12,10 +12,10 @@ free to explore my repos, open an issue.
 - Python
 
 ### 📦 What I build
-- Libraries & tools other devs can drop into their projects
+- Smaller projects and sometimes larger long term projects.
 
 ### 🤝 Open to
 - Collaborations, feedback, and cool ideas!
 
 ### 📡 Working on
-- Terrain Generation System(Verge)
+- a NLU system. this is the largest project i've made before and my best achievement.
