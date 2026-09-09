@@ -18,4 +18,6 @@ free to explore my repos, open an issue.
 - Collaborations, feedback, and cool ideas!
 
 ### 📡 Working on
-- a NLU system. this is the largest project i've made before and my best achievement.
+- a NLU system. this is the largest project i've made before and my best achievement. Started (Mon Sep 7 12:15pm)
+- Update- I recently updated the code and started making my own ai, its going well, (Tue Sep 8 10:31pm)
+  
