@@ -1,7 +1,6 @@
 # Hi there im GumGum👋
 
-Im new to development and Github and am looking to . I loves making systems and 
-open-source tools that make other devs lives a little easier.
+Im new to development and Github. I loves making new coding projects.
 
 Still learning, always building, and happy to collaborate
 
